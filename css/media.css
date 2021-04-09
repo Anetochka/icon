@@ -1,0 +1,76 @@
+/* ----- Настольные компьютеры и ноутбуки ----------- */
+@media only screen
+and (min-width: 1224px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- Девайсы с большими экранами ----------- */
+@media only screen
+and (min-width: 1824px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- Смартфоны (ориентация экрана Portrait и Landscape) ----------- */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- Смартфоны (ориентация экрана Landscape) ----------- */
+@media only screen
+and (min-width: 321px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- Смартфоны (ориентация экрана Portrait) ----------- */
+@media only screen
+and (max-width: 320px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPhone 5 (ориентация экрана Portrait и Landscape)----------- */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPhone 5 (ориентация экрана Landscape)----------- */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: landscape) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPhone 5 (ориентация экрана Portrait)----------- */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: portrait) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPad-ы (ориентация экрана Portrait и Landscape) ----------- */
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPad-ы (ориентация экрана Landscape) ----------- */
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (orientation: landscape) {
+	/* ваши CSS-стили здесь */
+}
+
+/* ----- iPad-ы (ориентация экрана Portrait) ----------- */
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (orientation: portrait) {
+	/* ваши CSS-стили здесь */
+}
